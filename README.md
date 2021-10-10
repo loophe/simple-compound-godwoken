@@ -1,4 +1,4 @@
-Deploy Pancakeswap contracts to godwoken
+Deploy Compound contracts to godwoken
 
 ## Prerequisites
 
